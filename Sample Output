@@ -1,0 +1,13 @@
+Employee Performance Predictor
+
+Enter ID: 101
+Enter Name: Ajay
+Attendance (%): 95
+Task Completion (%): 90
+Training Score: 85
+Experience (Years): 3
+
+Prediction Result
+------------------
+Employee: Ajay
+Performance: Excellent
